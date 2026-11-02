@@ -1,0 +1,242 @@
+[
+  {
+    "name": "VIBE",
+    "slug": "vibe",
+    "specs": {
+      "motor": "250W",
+      "range": "140 km",
+      "battery": "Lithium Ion (Extended)",
+      "topSpeed": "25 km/h",
+      "chargingTime": "3-4 hours",
+      "loadCapacity": "190 Kg"
+    },
+    "comingSoon": false,
+    "speed": "low",
+    "tagline": ""
+  },
+  {
+    "name": "IQ",
+    "slug": "iq",
+    "specs": {
+      "motor": "250W",
+      "range": "140 km",
+      "battery": "Lithium Ion (Extended)",
+      "topSpeed": "25 km/h",
+      "chargingTime": "3-4 hours",
+      "loadCapacity": "190 Kg"
+    },
+    "comingSoon": false,
+    "speed": "low",
+    "tagline": "With Multimedia"
+  },
+  {
+    "name": "VERTEX",
+    "slug": "vertex",
+    "specs": {
+      "motor": "2000W",
+      "range": "110 Km",
+      "battery": "60V/45Ah",
+      "topSpeed": "60-70 km/h",
+      "chargingTime": "4-5 Hours",
+      "loadCapacity": "190 Kg"
+    },
+    "comingSoon": true,
+    "speed": "high",
+    "tagline": "Power at the Peak"
+  },
+  {
+    "name": "ELECTRO PRO",
+    "slug": "electro-pro-2",
+    "specs": {
+      "motor": "250W ",
+      "range": "60-65 km",
+      "battery": "Lithium Ion",
+      "topSpeed": "25 km/h",
+      "chargingTime": "4-5 hours",
+      "loadCapacity": "170 Kg"
+    },
+    "comingSoon": false,
+    "speed": "low",
+    "tagline": "Style Meets Substance"
+  },
+  {
+    "name": "STRYKER",
+    "slug": "stryker",
+    "specs": {
+      "motor": "250W",
+      "range": "100-140 Km",
+      "battery": "60V/45Ah",
+      "topSpeed": "25 km/h",
+      "chargingTime": "4-5 hours",
+      "loadCapacity": "230Kg"
+    },
+    "comingSoon": false,
+    "speed": "low",
+    "tagline": "Born to Strike"
+  },
+  {
+    "name": "STREAK",
+    "slug": "streak",
+    "specs": {
+      "motor": "250W",
+      "range": "75-80 km",
+      "battery": "60V/36Ah",
+      "topSpeed": "25 km/h",
+      "chargingTime": "3-4 hours",
+      "loadCapacity": "160Kg"
+    },
+    "comingSoon": false,
+    "speed": "low",
+    "tagline": "Next generation electric scooter"
+  },
+  {
+    "name": "ZARA",
+    "slug": "zara",
+    "specs": {
+      "motor": "250W",
+      "range": "75-80 km",
+      "battery": "60V/36Ah",
+      "topSpeed": "25 km/h",
+      "chargingTime": "3-4 hours",
+      "loadCapacity": "160Kg"
+    },
+    "comingSoon": false,
+    "speed": "low",
+    "tagline": "BORN BRILLIANT "
+  },
+  {
+    "name": "QUANTUM",
+    "slug": "quantum",
+    "specs": {
+      "motor": "2000W",
+      "range": "200 km",
+      "battery": "60V/60Ah",
+      "topSpeed": "70-80 km/h",
+      "chargingTime": "4-5 hours",
+      "loadCapacity": "230 kg"
+    },
+    "comingSoon": true,
+    "speed": "high",
+    "tagline": "Future Of Thought"
+  },
+  {
+    "name": "NEUTRON",
+    "slug": "neutron",
+    "specs": {
+      "motor": "250W ",
+      "range": "60-65 km",
+      "battery": "60V/36Ah",
+      "topSpeed": "25 km/h",
+      "chargingTime": "4-5 hours",
+      "loadCapacity": "160 Kg"
+    },
+    "comingSoon": false,
+    "speed": "low",
+    "tagline": "Pro Performance"
+  },
+  {
+    "name": "ASTRA",
+    "slug": "astra",
+    "specs": {
+      "motor": "250W ",
+      "range": "90-120 km",
+      "battery": "60V/45Ah",
+      "topSpeed": "25 km/h",
+      "chargingTime": "4-5 hours",
+      "loadCapacity": "180 Kg"
+    },
+    "comingSoon": false,
+    "speed": "low",
+    "tagline": "Elevate Every Ride"
+  },
+  {
+    "name": "ENGAGE",
+    "slug": "engage",
+    "specs": {
+      "motor": "2000W",
+      "range": "110 KM",
+      "battery": "60V/45Ah",
+      "topSpeed": "70-80 km/h",
+      "chargingTime": "4-5 Hours",
+      "loadCapacity": "200 kg"
+    },
+    "comingSoon": true,
+    "speed": "high",
+    "tagline": "Lead with Every Ride"
+  },
+  {
+    "name": "ELECTRO",
+    "slug": "electro",
+    "specs": {
+      "motor": "250W ",
+      "range": "60-65 km",
+      "battery": "Lithium Ion",
+      "topSpeed": "25 km/h",
+      "chargingTime": "4-5 hours",
+      "loadCapacity": "170 Kg"
+    },
+    "comingSoon": false,
+    "speed": "low",
+    "tagline": "Style Meets Substance"
+  },
+  {
+    "name": "SILK",
+    "slug": "silk",
+    "specs": {
+      "motor": "250W",
+      "range": "90-110 km",
+      "battery": "60V/45Ah",
+      "topSpeed": "25 km/h",
+      "chargingTime": "4-5 hours",
+      "loadCapacity": "180 Kg"
+    },
+    "comingSoon": false,
+    "speed": "low",
+    "tagline": "Smooth as Silk, Strong in Style"
+  },
+  {
+    "name": "POLO RTO",
+    "slug": "polo-rto",
+    "specs": {
+      "motor": "2000W",
+      "range": "110 Km",
+      "battery": "60V/45Ah",
+      "topSpeed": "60-70 km/h",
+      "chargingTime": "4-5 Hours ",
+      "loadCapacity": "200 Kg"
+    },
+    "comingSoon": false,
+    "speed": "high",
+    "tagline": "Compact & Convenient"
+  },
+  {
+    "name": "ATOM PRO",
+    "slug": "atom-pro",
+    "specs": {
+      "motor": "250W ",
+      "range": "90-120 km",
+      "battery": "60V/45Ah",
+      "topSpeed": "25 km/h",
+      "chargingTime": "4-5 hours",
+      "loadCapacity": "180 Kg"
+    },
+    "comingSoon": false,
+    "speed": "low",
+    "tagline": "Premium Performance"
+  },
+  {
+    "name": "NEXO",
+    "slug": "nexo",
+    "specs": {
+      "motor": "250W",
+      "range": "300",
+      "battery": "60V/100AH",
+      "topSpeed": "25 km/h",
+      "chargingTime": "4-5 HOURS",
+      "loadCapacity": "190 Kg"
+    },
+    "comingSoon": false,
+    "speed": "low",
+    "tagline": ""
+  }
+]
